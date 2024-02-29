@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SistemaCadastroContatos.props" />
+</Project>
