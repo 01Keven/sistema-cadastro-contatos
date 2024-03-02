@@ -365,3 +365,4 @@ C:\Users\Keven\Desktop\⠀\programação\sistema-cadastro-contatos\SistemaCadast
 C:\Users\Keven\Desktop\⠀\programação\sistema-cadastro-contatos\SistemaCadastroContatos\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Keven\Desktop\⠀\programação\sistema-cadastro-contatos\SistemaCadastroContatos\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\Keven\Desktop\⠀\programação\sistema-cadastro-contatos\SistemaCadastroContatos\obj\Debug\net8.0\SistemaC.0D10A1CA.Up2Date
+C:\Users\Keven\Desktop\⠀\programação\sistema-cadastro-contatos\SistemaCadastroContatos\obj\Debug\net8.0\SistemaCadastroContatos.sourcelink.json

@@ -9,12 +9,8 @@ public class HomeController : Controller
     // pega a Home e inicia por padrão (pagina inicial)
     public IActionResult Index()
     {
-        // instanciando HomeModel
-        HomeModel home = new HomeModel();
 
-        home.Nome = "Keven Christian";
-        home.Email = "kevenchris@gmail.com";
-        return View(home);
+        return View();
     }
 
     public IActionResult Privacy()
