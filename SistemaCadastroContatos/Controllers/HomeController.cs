@@ -6,16 +6,15 @@ namespace SistemaCadastroContatos.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
-
-    public HomeController(ILogger<HomeController> logger)
-    {
-        _logger = logger;
-    }
-
+    // pega a Home e inicia por padrão (pagina inicial)
     public IActionResult Index()
     {
-        return View();
+        // instanciando HomeModel
+        HomeModel home = new HomeModel();
+
+        home.Nome = "Keven Christian";
+        home.Email = "kevenchris@gmail.com";
+        return View(home);
     }
 
     public IActionResult Privacy()
